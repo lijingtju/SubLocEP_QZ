@@ -1,1 +1,1 @@
-Please run python EP.py and EP2.py
+Please run python EP.py
